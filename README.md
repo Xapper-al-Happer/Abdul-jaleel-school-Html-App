@@ -6,7 +6,7 @@
 
 
 
-- ✨ Why? **Because I was bored in school. so I did this ( AS A JOKE ) and now it's a big project **
+- ✨ Why? **Because I was bored in school. so I did this ( AS A JOKE ) and now it's a big project**
 
 
 
