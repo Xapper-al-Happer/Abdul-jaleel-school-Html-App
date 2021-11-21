@@ -1,6 +1,17 @@
-<h1 align="center">Abdul jaleel school Website</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xapper-al-happer&label=Profile%20views&color=0e75b6&style=flat" alt="xapper-al-happer" /> </p>
+Abdul jaleel school Website
+
+
 
 [This Is the Project](https://abdul-jaleel-al-fahim-school.web.app/)
 
-- ⚡ Fun fact **Its a Pwa so if you deploy it you can install it in your phone :)**
+
+
+- ⚡ Fun fact **It's a Pwa, so if you deploy it you can install it on your phone :)**
+
+
+
+- ✨ Why? **Because I was bored in school. so I did this ( AS A JOKE ) and now it's a big project **
+
+
+
+- 😶 What is Xapper? **A Happer witch is A hacker and a programmer but there dum and that's me 😀**
